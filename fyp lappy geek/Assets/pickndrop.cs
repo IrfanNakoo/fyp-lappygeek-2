@@ -19,7 +19,7 @@ public class pickndrop : MonoBehaviour
     // Update is called once per frame
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.E)) //(Input.GetKeyDown(KeyCode.E))
+        if (Input.GetMouseButtonDown(0)) //(Input.GetKeyDown(KeyCode.E))
         {
             if (objectGrabable == null)
             {

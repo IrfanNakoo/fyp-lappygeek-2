@@ -22,13 +22,6 @@ public class cameraswitch : MonoBehaviour
         }
     }
 
-    //private void Update()
-    //{
-    //    if (Input.GetMouseButtonDown(0)) // Check for left mouse button click
-    //    {
-    //        SwitchCamera();
-    //    }
-    //}
 
     private void SwitchCamera()
     {
